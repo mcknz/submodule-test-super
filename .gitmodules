@@ -1,3 +1,3 @@
 [submodule "ProjectA"]
 	path = ProjectA
-	url = C:/src/submodule-test/a
+	url = git@github.com:mcknz/submodule-test-a.git
