@@ -10,7 +10,6 @@ Sample git repo that contains a submodule. This is the "super" repo, following t
 >drwxr-xr-x  4 fspeirs  wheel  136 May 11 11:03 a
 >drwxr-xr-x  4 fspeirs  wheel  136 May 11 11:03 super
 >~~~~
->~~~~
 > The first thing to do is run "git submodule add" in super:
 >~~~~
 >[/tmp/git/super(master)]$ git submodule add /tmp/git/a ProjectA
