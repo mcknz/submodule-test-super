@@ -1,0 +1,3 @@
+[submodule "ProjectA"]
+	path = ProjectA
+	url = C:/src/submodule-test/a
